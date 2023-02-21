@@ -2,8 +2,8 @@ Hi there 👋
 
 💪Skills
 <hr/>  
-<div style="font-weight=bold;">Platforms & Languages</div>
-<div style="display=inline-block;">
+Platforms & Languages
+<div style="display: inline-block;">
 <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
