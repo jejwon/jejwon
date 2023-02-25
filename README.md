@@ -15,4 +15,4 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jejwon&layout=compact)](https://github.com/jejwon/github-readme-stats)
+
